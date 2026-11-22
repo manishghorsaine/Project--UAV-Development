@@ -1,0 +1,4 @@
+﻿Name,Nominal_Voltage,Cells_S,C_Rate,Capacity_Ah,burst_discharge_C,charge_C
+BatteryI,11.1,3,50,1.8,100,4
+BatteryII,11.1,3,20,2.2,40,4
+BatteryIII,11.1,3,50,2.2,100,4
